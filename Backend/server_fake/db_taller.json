@@ -1,0 +1,85 @@
+{
+  "privados": [
+    {
+      "Nombre completo": "Elmore Pepye",
+      "Apellidos Completos": "Pepye",
+      "Edad": 10,
+      "Correo Electronico": "epepye0@ucoz.ru",
+      "Fecha de Nacimiento": "6/19/1997",
+      "Ciudad": "",
+      "Id": "130.184.158.178/10",
+      "id": "TZ5AoUBLWyQ"
+    },
+    {
+      "Nombre completo": "Carlin Isles",
+      "Apellidos Completos": "Isles",
+      "Edad": 10,
+      "Correo Electronico": "cisles1@cafepress.com",
+      "Fecha de Nacimiento": "10/26/1993",
+      "Ciudad": "Kota Kinabalu",
+      "Id": "197.157.21.180/26",
+      "id": "9FYzKPOqyRY"
+    },
+    {
+      "Nombre completo": "Francklin Claris",
+      "Apellidos Completos": "Claris",
+      "Edad": 63,
+      "Correo Electronico": "fclaris2@e-recht24.de",
+      "Fecha de Nacimiento": "11/5/1983",
+      "Ciudad": "Cerrito",
+      "Id": "130.160.13.210/10",
+      "id": "yuFCuz8tmf0"
+    },
+    {
+      "Nombre completo": "Craggy Moran",
+      "Apellidos Completos": "Moran",
+      "Edad": 27,
+      "Correo Electronico": "cmoran3@va.gov",
+      "Fecha de Nacimiento": "3/6/1970",
+      "Ciudad": "Jalanbaru",
+      "Id": "2.28.132.23/4",
+      "id": "WlX_E0Wqatc"
+    },
+    {
+      "Nombre completo": "Mona Colby",
+      "Apellidos Completos": "Colby",
+      "Edad": 84,
+      "Correo Electronico": "mcolby4@dmoz.org",
+      "Fecha de Nacimiento": "8/14/1991",
+      "Ciudad": "Hedao",
+      "Id": "142.43.127.178/22",
+      "id": "bckW-auO1xk"
+    },
+    {
+      "Nombre completo": "Dinny Prinett",
+      "Apellidos Completos": "Prinett",
+      "Edad": 92,
+      "Correo Electronico": "dprinett7@mac.com",
+      "Fecha de Nacimiento": "9/10/2015",
+      "Ciudad": "Tarikolot",
+      "Id": "36.101.112.237/30",
+      "id": "N9tQ1facvn8"
+    },
+    {
+      "Nombre completo": "Mathe Gascoigne",
+      "Apellidos Completos": "Gascoigne",
+      "Edad": 13,
+      "Correo Electronico": "mgascoigne8@ftc.gov",
+      "Fecha de Nacimiento": "2/14/1987",
+      "Ciudad": "Strömsund",
+      "Id": "187.117.69.24/5",
+      "id": "S7O2yjm_Jq4"
+    },
+    {
+      "Nombre completo": "Jose devora limoncitas",
+      "Apellidos Completos": "Roldan",
+      "Edad": 81,
+      "Correo Electronico": "bcolbeck6@umich.edu",
+      "Fecha de Nacimiento": "9/20/1965",
+      "Ciudad": "Rakvere",
+      "Id": "68.56.32.196/23",
+      "id": "TpeM4GNbnTk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
